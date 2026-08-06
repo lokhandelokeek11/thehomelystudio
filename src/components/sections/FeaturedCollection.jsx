@@ -14,7 +14,7 @@ export default function FeaturedCollection() {
         <SectionTitle
           subtitle="Curated Handcrafted Showcase"
           title="Featured Collection"
-          description="Explore our most loved handcrafted pipe cleaner deity garlands, sacred mandir accessories, and decorative home embellishments."
+          description="Explore our most loved handcrafted deity garlands, sacred mandir accessories, and decorative home embellishments."
         />
 
         <ProductGrid products={featuredProducts} columns={4} />

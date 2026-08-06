@@ -73,7 +73,7 @@ export default function ProductsPage() {
     <>
       <Helmet>
         <title>Handcrafted Collection Catalog | The Homely Studio</title>
-        <meta name="description" content="Browse our complete showcase of 100% handcrafted pipe cleaner deity garlands, festive decor, curtain tiebacks, hair pins, and bespoke keychains." />
+        <meta name="description" content="Browse our complete showcase of 100% handcrafted deity garlands, festive decor, curtain tiebacks, hair pins, and bespoke keychains." />
       </Helmet>
 
       <main className="min-h-screen bg-brand-bg py-12 md:py-20">

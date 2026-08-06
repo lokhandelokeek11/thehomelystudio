@@ -3,7 +3,7 @@ import profileLogo from '../assets/images/profile-logo.jpg';
 export const BRAND_INFO = {
   name: 'The Homely Studio',
   tagline: 'Handcrafted with Love, Designed for Warmth',
-  shortBio: 'A quiet tribute to authentic Indian craftsmanship. We hand-craft fuzzy pipe cleaners, vibrant chenille stems, and delicate floral motifs into timeless deity garlands, home accents, and hair accessories.',
+  shortBio: 'A quiet tribute to authentic Indian craftsmanship. We hand-craft delicate floral motifs into timeless deity garlands, home accents, and hair accessories.',
   logo: profileLogo,
   whatsappNumber: '918087995835',
   whatsappFormatted: '+91 80879 95835',

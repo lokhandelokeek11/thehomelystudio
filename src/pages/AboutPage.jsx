@@ -16,7 +16,7 @@ export default function AboutPage() {
     <>
       <Helmet>
         <title>Our Story & Craftsmanship | The Homely Studio</title>
-        <meta name="description" content="Discover the story behind The Homely Studio—where authentic Indian pipe cleaner craft traditions, sacred deity decor, and cozy home aesthetics come to life." />
+        <meta name="description" content="Discover the story behind The Homely Studio—where authentic Indian craft traditions, sacred deity decor, and cozy home aesthetics come to life." />
       </Helmet>
 
       <main className="min-h-screen bg-brand-bg py-12 md:py-20">
@@ -26,7 +26,7 @@ export default function AboutPage() {
           <SectionTitle
             subtitle="Behind The Studio"
             title="Handcrafted With Love, Designed For Warmth"
-            description="The Homely Studio was born out of a profound love for traditional hand-crafting, sacred Indian festival rituals, and minimalist Scandinavian product aesthetics."
+            description="The Homely Studio was born out of a profound love for traditional handcrafting, sacred Indian festival rituals, and minimalist Scandinavian product aesthetics."
           />
 
           {/* Story Grid */}
@@ -44,11 +44,11 @@ export default function AboutPage() {
               </h3>
               
               <p className="text-brand-muted font-light leading-relaxed">
-                What began as a quiet household passion for shaping soft plush pipe cleaner stems has blossomed into <strong>The Homely Studio</strong>—a boutique home brand dedicated to creating everlasting deity garlands (haar), sacred altar seating asaans, and cozy home accents.
+                What began as a quiet household passion for shaping soft plush floral stems has blossomed into <strong>The Homely Studio</strong>—a boutique home brand dedicated to creating everlasting deity garlands (haar), sacred altar seating asaans, and cozy home accents.
               </p>
 
               <p className="text-brand-muted font-light leading-relaxed">
-                Natural flowers, though sacred and breathtaking, wither away within hours. We wanted to offer devotees and home decor lovers an everlasting, respectful alternative crafted with high-density pipe cleaner stems that retain their vivid colors and shape across generations of festivals.
+                Natural flowers, though sacred and breathtaking, wither away within hours. We wanted to offer devotees and home decor lovers an everlasting, respectful alternative crafted with high-density materials that retain their vivid colors and shape across generations of festivals.
               </p>
 
               <div className="pt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -61,7 +61,7 @@ export default function AboutPage() {
                 <div className="p-4 bg-brand-secondary/50 rounded-2xl border border-brand-border/60">
                   <h4 className="font-serif font-semibold text-brand-primary text-base mb-1">Our Vision</h4>
                   <p className="text-xs text-brand-muted font-light">
-                    To keep traditional pipe cleaner handicraft alive in modern homes while offering zero-waste, eco-conscious festive solutions.
+                    To keep traditional handicraft alive in modern homes while offering zero-waste, eco-conscious festive solutions.
                   </p>
                 </div>
               </div>
@@ -82,7 +82,7 @@ export default function AboutPage() {
               </div>
               <div className="space-y-4 pt-6">
                 <div className="aspect-square rounded-2xl overflow-hidden shadow-soft border border-brand-border">
-                  <img src={asaanImg} alt="Pipe Cleaner Asaan Detail" className="w-full h-full object-cover" />
+                  <img src={asaanImg} alt="Handcrafted Asaan Detail" className="w-full h-full object-cover" />
                 </div>
                 <div className="aspect-square rounded-2xl overflow-hidden shadow-soft border border-brand-border">
                   <img src={flowerPotImg} alt="Mini Flower Pot Decor" className="w-full h-full object-cover" />

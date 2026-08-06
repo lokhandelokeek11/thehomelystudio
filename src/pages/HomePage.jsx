@@ -10,13 +10,13 @@ export default function HomePage() {
   return (
     <>
       <Helmet>
-        <title>The Homely Studio | Premium Handcrafted Pipe Cleaner & Festive Decor</title>
+        <title>The Homely Studio | Premium Handcrafted Festive Decor & Deity Haar</title>
         <meta 
           name="description" 
-          content="Handmade luxury pipe cleaner deity garlands, mandir asaans, curtain tiebacks, hair ornaments & custom keychains. Browse our handcrafted catalog and contact on WhatsApp or Instagram." 
+          content="Handmade luxury deity garlands, mandir asaans, curtain tiebacks, hair ornaments & custom keychains. Browse our handcrafted catalog and contact on WhatsApp or Instagram." 
         />
         <meta property="og:title" content="The Homely Studio | Premium Handcrafted Showcase" />
-        <meta property="og:description" content="Discover handmade pipe cleaner deity garlands, festive decor, hair accessories & bespoke gifts." />
+        <meta property="og:description" content="Discover handmade deity garlands, festive decor, hair accessories & bespoke gifts." />
       </Helmet>
 
       <main className="min-h-screen bg-brand-bg">

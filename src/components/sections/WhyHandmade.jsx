@@ -13,7 +13,7 @@ export default function WhyHandmade() {
     {
       icon: RefreshCw,
       title: 'Everlasting & Reusable',
-      description: 'Unlike fresh flowers that wither in hours, our pipe cleaner garlands retain their vivid beauty year after year across every festival.'
+      description: 'Unlike fresh flowers that wither in hours, our handmade garlands retain their vivid beauty year after year across every festival.'
     },
     {
       icon: Palette,
@@ -23,7 +23,7 @@ export default function WhyHandmade() {
     {
       icon: Sun,
       title: 'Warm & Eco-Conscious',
-      description: 'Made using soft plush pipe cleaners and chenille stems, offering an eco-friendly aesthetic for modern conscious homes.'
+      description: 'Made using soft plush materials and careful craftsmanship, offering an eco-friendly aesthetic for modern conscious homes.'
     }
   ];
 

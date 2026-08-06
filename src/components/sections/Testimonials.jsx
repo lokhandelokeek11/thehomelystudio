@@ -15,8 +15,8 @@ export default function Testimonials() {
     {
       name: 'Ananya S.',
       location: 'Pune',
-      product: 'Pipe Cleaner Asaan & Sonchafa Garland',
-      text: 'Ordered the divine pipe cleaner asaan for Bappa along with the Sonchafa garland. The quality of the pipe cleaner material is so soft and premium. It feels so sacred and dignified on our puja altar.',
+      product: 'Asaan & Sonchafa Garland',
+      text: 'Ordered the divine asaan for Bappa along with the Sonchafa garland. The quality of the material is so soft and premium. It feels so sacred and dignified on our puja altar.',
       rating: 5
     },
     {
