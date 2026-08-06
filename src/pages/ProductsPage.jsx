@@ -7,7 +7,7 @@ import CategoryFilter from '../components/common/CategoryFilter';
 import SearchBar from '../components/common/SearchBar';
 import ProductGrid from '../components/common/ProductGrid';
 import { products } from '../data/products';
-import { SORT_OPTIONS } from '../constants';
+import { BRAND_INFO, SORT_OPTIONS } from '../constants';
 
 export default function ProductsPage() {
   const [searchParams, setSearchParams] = useSearchParams();
