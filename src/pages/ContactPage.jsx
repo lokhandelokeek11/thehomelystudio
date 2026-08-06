@@ -149,7 +149,7 @@ export default function ContactPage() {
                     className="w-full min-h-[48px] px-4 py-3 bg-brand-bg rounded-xl border border-brand-border text-brand-text focus:outline-none focus:border-brand-primary text-sm cursor-pointer"
                   >
                     <option value="Festive & Deity Garlands">Festive & Deity Garlands (Haar)</option>
-                    <option value="Crochet Asaan for Idol">Crochet Asaan for Idol Seating</option>
+                    <option value="Pipe Cleaner Asaan for Idol">Pipe Cleaner Asaan for Idol Seating</option>
                     <option value="Home Decor & Curtain Tiebacks">Home Decor & Curtain Tiebacks</option>
                     <option value="Hair Accessories & Bands">Hair Ornaments & Hair Bands</option>
                     <option value="Custom Keychain & Bags Charms">Custom Keychains & Bag Charms</option>

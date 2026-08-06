@@ -18,7 +18,7 @@ import sonchafaHaarImg from '../assets/images/sonchafa_haar.jpeg';
 export const products = [
   {
     id: 'asaan-for-bappa',
-    title: 'Handcrafted Divine Crochet Asaan for Bappa',
+    title: 'Handcrafted Divine Pipe Cleaner Asaan for Bappa',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 149,
@@ -28,16 +28,16 @@ export const products = [
       { name: 'Medium Asaan (6 inch circle)', price: 300 },
       { name: 'Large Asaan (8 inch circle)', price: 400 },
     ],
-    shortDescription: 'Sacred handmade floral crochet seating mat crafted with love for Lord Ganesha and home altar idols.',
-    description: 'Elevate your daily worship and festive puja setup with this exquisite handcrafted crochet Asaan. Painstakingly crocheted using soft, non-fading premium yarn, this ornate circular mat provides a dignified, elegant seating place for Lord Ganesha, Laddu Gopal, or home mandir idols. Designed to retain color vibrancy and shape for years.',
+    shortDescription: 'Sacred handmade floral pipe cleaner seating mat crafted with love for Lord Ganesha and home altar idols.',
+    description: 'Elevate your daily worship and festive puja setup with this exquisite handcrafted pipe cleaner Asaan. Painstakingly shaped using soft, non-fading premium pipe cleaner stems, this ornate circular mat provides a dignified, elegant seating place for Lord Ganesha, Laddu Gopal, or home mandir idols. Designed to retain color vibrancy and shape for years.',
     features: [
-      '100% Handcrafted crochet artistry',
+      '100% Handcrafted pipe cleaner artistry',
       'Washable & re-usable year after year',
       'Available in 4", 6", and 8" circular sizes',
       'Soft plush feel protecting idol bases',
       'Custom colors available on order'
     ],
-    material: 'Premium Soft Acrylic Yarn & Felt Backing',
+    material: 'Premium Plush Pipe Cleaners & Felt Backing',
     careInstructions: 'Gentle hand wash in cold water with mild detergent. Lay flat in shade to dry.',
     dimensions: '4 inch / 6 inch / 8 inch circular diameter',
     colorTheme: 'Festive Yellow, Crimson Red & Green Accents',
@@ -50,7 +50,7 @@ export const products = [
   },
   {
     id: 'large-hibiscus-haar',
-    title: 'Grand Royal Red Hibiscus Crochet Deity Haar',
+    title: 'Grand Royal Red Hibiscus Pipe Cleaner Deity Haar',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 50,
@@ -60,8 +60,8 @@ export const products = [
       { name: '5 Flowers Garland (Haar)', price: 300 },
       { name: '7 Flowers Garland (Haar)', price: 400 },
     ],
-    shortDescription: 'A magnificent, everlasting red hibiscus (Jaswand) crochet garland sacred to Lord Ganesha and Goddess Lakshmi.',
-    description: 'Embrace eternal devotion with our Grand Royal Red Hibiscus Crochet Garland. Hibiscus flowers are deeply sacred in Indian traditions, particularly for Bappa and Devi worship. Unlike natural flowers that wither in hours, our handcrafted crochet haar stays fresh, vibrant, and sacred forever. Every petal is individually stitched to capture natural blooming grace.',
+    shortDescription: 'A magnificent, everlasting red hibiscus (Jaswand) pipe cleaner garland sacred to Lord Ganesha and Goddess Lakshmi.',
+    description: 'Embrace eternal devotion with our Grand Royal Red Hibiscus Pipe Cleaner Garland. Hibiscus flowers are deeply sacred in Indian traditions, particularly for Bappa and Devi worship. Unlike natural flowers that wither in hours, our handcrafted pipe cleaner haar stays fresh, vibrant, and sacred forever. Every petal is individually shaped to capture natural blooming grace.',
     features: [
       'Intricate multi-layered red hibiscus petals',
       'Will not fade, drop, or decay over time',
@@ -69,7 +69,7 @@ export const products = [
       'Flexible woven stem for easy draping',
       'Custom flower counts upon request'
     ],
-    material: 'Mercerized Cotton & Microfiber Yarn',
+    material: 'Soft Plush Pipe Cleaners & Chenille Stems',
     careInstructions: 'Dust lightly with a soft brush. Hand wash gently if needed.',
     dimensions: 'Varies by selection (Single, 5-Flower ~1.2ft, 7-Flower ~1.8ft)',
     colorTheme: 'Deep Scarlet Red, Sunshine Yellow Stamen, Emerald Leaves',
@@ -82,7 +82,7 @@ export const products = [
   },
   {
     id: 'medium-hibiscus-haar',
-    title: 'Classic Hibiscus Crochet Deity Garland',
+    title: 'Classic Hibiscus Pipe Cleaner Deity Garland',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 40,
@@ -93,14 +93,14 @@ export const products = [
       { name: '7 Flowers Garland', price: 350 },
     ],
     shortDescription: 'Medium-sized handcrafted red hibiscus garland crafted for home shrine deities and festive worship.',
-    description: 'Designed specifically for medium-sized deity idols and home altars, this classic hibiscus garland offers an ideal balance of elegance and sacred warmth. Hand-knitted with precise needlework, each blossom mirrors the beauty of fresh Jaswand flowers without any maintenance.',
+    description: 'Designed specifically for medium-sized deity idols and home altars, this classic hibiscus garland offers an ideal balance of elegance and sacred warmth. Handcrafted with precise detail, each blossom mirrors the beauty of fresh Jaswand flowers without any maintenance.',
     features: [
       'Classic medium bloom proportions',
-      'Durable, colorfast threads',
+      'Durable, colorfast materials',
       'Easy to drape around idols or frames',
       'Eco-friendly alternative to plastic flowers'
     ],
-    material: 'Soft Premium Yarn',
+    material: 'Soft Plush Pipe Cleaner Stems',
     careInstructions: 'Spot clean or hand wash gently in cold water.',
     dimensions: 'Single bloom / 5-flower (~1 ft) / 7-flower (~1.5 ft)',
     colorTheme: 'Vibrant Red & Soft Yellow',
@@ -113,7 +113,7 @@ export const products = [
   },
   {
     id: 'small-hibiscus-haar',
-    title: 'Graceful Petite Hibiscus Crochet Haar',
+    title: 'Graceful Petite Hibiscus Pipe Cleaner Haar',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 30,
@@ -124,13 +124,13 @@ export const products = [
       { name: '7 Flowers Garland', price: 240 },
     ],
     shortDescription: 'Delicate mini hibiscus garland designed for smaller idols, car dashboard mandirs, and wall altars.',
-    description: 'A sweet and delicate mini garland for small deity statues, framed photos, or compact home shrines. Handcrafted with fine thread crochet, these petite hibiscus blooms deliver a soft touch of traditional devotion to intimate sacred spaces.',
+    description: 'A sweet and delicate mini garland for small deity statues, framed photos, or compact home shrines. Handcrafted with fine plush pipe cleaners, these petite hibiscus blooms deliver a soft touch of traditional devotion to intimate sacred spaces.',
     features: [
       'Petite, light design suitable for smaller statues',
       'Will not weigh down delicate idols',
       'Long-lasting vivid color vibrancy'
     ],
-    material: 'Fine Cotton Crochet Thread',
+    material: 'Soft Plush Pipe Cleaner Stems',
     careInstructions: 'Air dry flat after a quick soft hand wash.',
     dimensions: 'Petite size (Single bloom / 5-flower / 7-flower options)',
     colorTheme: 'Bright Red & Gold Accent',
@@ -143,7 +143,7 @@ export const products = [
   },
   {
     id: 'marigold-haar',
-    title: 'Festive Golden Marigold Crochet Haar',
+    title: 'Festive Golden Marigold Pipe Cleaner Haar',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 120,
@@ -154,15 +154,15 @@ export const products = [
       { name: '1.5 Feet Garland (27 Flowers)', price: 380 },
       { name: '2.0 Feet Garland (36 Flowers)', price: 480 },
     ],
-    shortDescription: 'Lush golden Genda Phool (Marigold) crochet garland bringing festive warmth and auspicious energy to your home.',
-    description: 'No Indian festival is complete without marigolds (Genda Phool). Our handmade crochet marigold garlands replicate the fluffy, vibrant texture of real marigolds in eternal yarn. Perfect for entrance doors (Toran), home mandir backdrops, deity adornment, and festive photo corners.',
+    shortDescription: 'Lush golden Genda Phool (Marigold) pipe cleaner garland bringing festive warmth and auspicious energy to your home.',
+    description: 'No Indian festival is complete without marigolds (Genda Phool). Our handmade pipe cleaner marigold garlands replicate the fluffy, vibrant texture of real marigolds in soft chenille stems. Perfect for entrance doors (Toran), home mandir backdrops, deity adornment, and festive photo corners.',
     features: [
       'Ultra-fluffy realistic marigold texture',
       'Available from 0.5 ft up to 2.0 ft lengths',
       'Never fades or drops petals',
       'Washable and re-usable for every festival season'
     ],
-    material: 'High-bulk Soft Textured Yarn',
+    material: 'High-Density Soft Pipe Cleaner Stems',
     careInstructions: 'Shake gently to fluff up. Hand wash gently when needed.',
     dimensions: '0.5 ft (9 flw) / 1 ft (17 flw) / 1.5 ft (27 flw) / 2 ft (36 flw)',
     colorTheme: 'Auspicious Orange & Sunshine Yellow',
@@ -191,7 +191,7 @@ export const products = [
       'Lightweight and easy to place',
       'Reusable eco-friendly festive decor'
     ],
-    material: 'Textured Soft Yarn',
+    material: 'Plush Pipe Cleaner Stems',
     careInstructions: 'Gently hand wash in lukewarm soapy water.',
     dimensions: 'Approx. 5 - 6 inches each',
     colorTheme: 'Classic Marigold Orange & Leaf Green',
@@ -204,7 +204,7 @@ export const products = [
   },
   {
     id: 'sonchafa-haar',
-    title: 'Fragrant White Sonchafa (Champa) Crochet Haar',
+    title: 'Fragrant White Sonchafa (Champa) Pipe Cleaner Haar',
     category: 'deity-decor',
     categoryName: 'Festive & Deity Garlands',
     price: 30,
@@ -214,15 +214,15 @@ export const products = [
       { name: '11 Chafa Flowers Garland', price: 350 },
       { name: '13 Chafa Flowers Garland', price: 400 },
     ],
-    shortDescription: 'Pure white & golden-centered Sonchafa (Plumeria/Champa) crochet garland representing serenity and spiritual purity.',
+    shortDescription: 'Pure white & golden-centered Sonchafa (Plumeria/Champa) pipe cleaner garland representing serenity and spiritual purity.',
     description: 'Sonchafa (Champa) blossoms symbolize purity, peace, and divine devotion. Our artisans painstakingly recreate the silky cream petals and warm yellow core of fresh Sonchafa flowers. Draping this graceful garland around deity idols brings an aura of peaceful elegance to your home shrine.',
     features: [
       'Impeccable petal curvature resembling fresh Champa',
-      'Soft white yarn with warm yellow center accent',
+      'Soft white pipe cleaner stems with warm yellow center accent',
       'Available in 11-flower and 13-flower full garlands',
       'Handcrafted with meticulous detailing'
     ],
-    material: 'Milk Cotton Yarn',
+    material: 'Soft Plush Pipe Cleaner Stems',
     careInstructions: 'Hand wash with care using mild detergent.',
     dimensions: 'Single bloom / 11-flower (~1.4 ft) / 13-flower (~1.7 ft)',
     colorTheme: 'Pure Ivory White & Golden Warm Core',
@@ -244,14 +244,14 @@ export const products = [
       { name: 'Half Feet Garland (0.5 ft)', price: 150 },
       { name: 'One Feet Garland (1.0 ft)', price: 250 },
     ],
-    shortDescription: 'Vibrant multicolor floral crochet garland woven with joyful micro-blossoms for daily worship.',
-    description: 'A delightful palette of colorful crochet florets strung together in harmony. This multicolor mini floral garland adds a cheerful, festive burst of color to deity statues, puja thalis, or hanging altars.',
+    shortDescription: 'Vibrant multicolor floral pipe cleaner garland woven with joyful micro-blossoms for daily worship.',
+    description: 'A delightful palette of colorful pipe cleaner florets strung together in harmony. This multicolor mini floral garland adds a cheerful, festive burst of color to deity statues, puja thalis, or hanging altars.',
     features: [
       'Harmonious mix of traditional Indian floral colors',
       'Lightweight with soft drape flexibility',
-      'Durable thread work designed for daily use'
+      'Durable craftsmanship designed for daily use'
     ],
-    material: 'Multi-ply Cotton Blend Yarn',
+    material: 'Multicolor Pipe Cleaner Stems',
     careInstructions: 'Spot clean with a damp cloth or gentle hand wash.',
     dimensions: '0.5 Feet (Half Ft) / 1.0 Feet (One Ft)',
     colorTheme: 'Multicolor (Red, Yellow, Pink, Green)',
@@ -264,7 +264,7 @@ export const products = [
   },
   {
     id: 'curtain-holder',
-    title: 'Botanical Floral Handmade Crochet Curtain Tiebacks',
+    title: 'Botanical Floral Handmade Pipe Cleaner Curtain Tiebacks',
     category: 'home-decor',
     categoryName: 'Home Decor & Accents',
     price: 199,
@@ -272,15 +272,15 @@ export const products = [
     variants: [
       { name: 'Standard Pair (Set of 2)', price: 199 },
     ],
-    shortDescription: 'Charming handcrafted crochet floral curtain tiebacks that bring boho warmth and artisanal beauty to window drapes.',
-    description: 'Transform ordinary curtains into an aesthetic masterpiece with these handcrafted floral tiebacks. Hand-knitted with soft yarn, they gently hold back your window drapes while adding a cottage-core, Scandinavian warmth to living rooms, bedrooms, or nurseries.',
+    shortDescription: 'Charming handcrafted pipe cleaner floral curtain tiebacks that bring boho warmth and artisanal beauty to window drapes.',
+    description: 'Transform ordinary curtains into an aesthetic masterpiece with these handcrafted floral tiebacks. Handcrafted with soft pipe cleaners, they gently hold back your window drapes while adding a cottage-core, Scandinavian warmth to living rooms, bedrooms, or nurseries.',
     features: [
       'Set of 2 handcrafted floral drape tiebacks',
       'Adjustable wrap loop fits sheer and heavy drapes',
       'Adds cozy, rustic boho flair to interiors',
       'Gentle on fabrics — no sharp pins or metal hooks'
     ],
-    material: '100% Natural Cotton Yarn & Wooden Bead Accent',
+    material: 'Plush Pipe Cleaners & Wooden Bead Accent',
     careInstructions: 'Machine washable in laundry bag on gentle cycle or hand wash.',
     dimensions: 'Tieback length ~16 inches with stretch flexibility',
     colorTheme: 'Warm Beige, Sage & Pastel Petal Tones',
@@ -293,7 +293,7 @@ export const products = [
   },
   {
     id: 'fridge-magnets',
-    title: 'Bloom & Charm Handmade Crochet Fridge Magnets',
+    title: 'Bloom & Charm Handmade Pipe Cleaner Fridge Magnets',
     category: 'home-decor',
     categoryName: 'Home Decor & Accents',
     price: 249,
@@ -301,15 +301,15 @@ export const products = [
     variants: [
       { name: 'Single Handmade Floral Magnet', price: 249 },
     ],
-    shortDescription: 'Whimsical hand-crocheted floral & botanical magnets that add personality to kitchen fridges and magnetic boards.',
-    description: 'Brighten up your kitchen space with our handcrafted crochet fridge magnets. Each piece features a meticulously stitched mini flower or succulent set into a soft felt base with a strong ceramic magnet underneath. Ideal for holding recipe cards, reminders, or simply bringing joy to your morning coffee ritual.',
+    shortDescription: 'Whimsical hand-crafted pipe cleaner floral & botanical magnets that add personality to kitchen fridges and magnetic boards.',
+    description: 'Brighten up your kitchen space with our handcrafted pipe cleaner fridge magnets. Each piece features a meticulously shaped mini flower or succulent set into a soft felt base with a strong ceramic magnet underneath. Ideal for holding recipe cards, reminders, or simply bringing joy to your morning coffee ritual.',
     features: [
       'Strong hidden neodymium magnet backend',
       'Soft fabric base prevents scratching appliances',
       'Unique, handcrafted individual designs',
       'Delightful small token gift for any home'
     ],
-    material: 'Cotton Thread, Soft Felt, High-Grade Magnet',
+    material: 'Plush Pipe Cleaners, Soft Felt, High-Grade Magnet',
     careInstructions: 'Wipe clean with a dry cloth.',
     dimensions: 'Approx 2.5 x 2.5 inches',
     colorTheme: 'Vibrant Floral Pastels',
@@ -322,7 +322,7 @@ export const products = [
   },
   {
     id: 'hair-clip',
-    title: 'Handcrafted Pastel Floral Crochet Hair Clips',
+    title: 'Handcrafted Pastel Floral Pipe Cleaner Hair Clips',
     category: 'hair-accessories',
     categoryName: 'Hair Ornaments',
     price: 30,
@@ -331,15 +331,15 @@ export const products = [
       { name: 'Single Hair Clip (Custom Color/Size)', price: 30 },
       { name: 'Special Pack (Buy 2 Hair Clips)', price: 50 },
     ],
-    shortDescription: 'Sweet hand-knitted floral hair clips offering a gentle, snag-free hold for kids, teens, and vintage styling.',
-    description: 'Handmade with love for delicate styling, these floral crochet hair clips feature cute flower motifs mounted on fabric-wrapped snap clips. Designed to hold hair comfortably without snagging or pulling.',
+    shortDescription: 'Sweet handcrafted pipe cleaner hair clips offering a gentle, snag-free hold for kids, teens, and vintage styling.',
+    description: 'Handmade with love for delicate styling, these floral pipe cleaner hair clips feature cute flower motifs mounted on fabric-wrapped snap clips. Designed to hold hair comfortably without snagging or pulling.',
     features: [
-      'Soft yarn flowers mounted on safe fabric clips',
+      'Soft pipe cleaner flowers mounted on safe fabric clips',
       'Customizable colors & size options available',
       'Special Bundle: Buy 2 for ₹50',
       'Gentle on sensitive scalps and fine hair'
     ],
-    material: 'Soft Baby Yarns & Fabric Covered Steel Clip',
+    material: 'Plush Pipe Cleaners & Fabric Covered Steel Clip',
     careInstructions: 'Spot clean gently with cold water.',
     dimensions: 'Clip length approx 2 inches',
     colorTheme: 'Soft Pastels (Pink, Cream, Butter Yellow, Lavender)',
@@ -352,7 +352,7 @@ export const products = [
   },
   {
     id: 'colourful-hair-belts',
-    title: 'Vibrant Hand-Knitted Floral Hair Band Collection',
+    title: 'Vibrant Handcrafted Pipe Cleaner Floral Hair Band Collection',
     category: 'hair-accessories',
     categoryName: 'Hair Ornaments',
     price: 80,
@@ -360,15 +360,15 @@ export const products = [
     variants: [
       { name: 'Single Handcrafted Hair Band', price: 80 },
     ],
-    shortDescription: 'Comfortable crochet floral hair bands crafted for stylish everyday wear and festive traditional attire.',
-    description: 'Add a touch of cottage-core elegance to your hair with our hand-knitted floral headband. Featuring a stretchable, gentle fit that stays comfortable all day without causing pressure headaches.',
+    shortDescription: 'Comfortable pipe cleaner floral hair bands crafted for stylish everyday wear and festive traditional attire.',
+    description: 'Add a touch of cottage-core elegance to your hair with our handcrafted pipe cleaner headband. Featuring a stretchable, gentle fit that stays comfortable all day without causing pressure headaches.',
     features: [
       'Stretchable non-press headband design',
-      'Lush handcrafted crochet flower embellishments',
-      'Breathable yarn suited for all seasons',
+      'Lush handcrafted pipe cleaner flower embellishments',
+      'Soft plush pipe cleaners suited for all seasons',
       'Available in vibrant festive color palettes'
     ],
-    material: 'Elastic Fabric & Soft Cotton Crochet Blooms',
+    material: 'Elastic Fabric & Soft Pipe Cleaner Blooms',
     careInstructions: 'Hand wash gently in lukewarm water.',
     dimensions: 'One size fits most (stretchable flex fit)',
     colorTheme: 'Multicolor Floral Accents on Neutral Base',
@@ -381,7 +381,7 @@ export const products = [
   },
   {
     id: 'keychain',
-    title: 'Charming Handmade Crochet Floral Bag Charm & Keychain',
+    title: 'Charming Handmade Pipe Cleaner Floral Bag Charm & Keychain',
     category: 'keychains-charms',
     categoryName: 'Keychains & Charms',
     price: 30,
@@ -391,15 +391,15 @@ export const products = [
       { name: 'Medium Floral Charm (Detailed)', price: 50 },
       { name: 'Deluxe Multi-Charm Keychain', price: 80 },
     ],
-    shortDescription: 'Adorable handcrafted crochet flower keychains and handbag charms crafted with customizable designs and colors.',
-    description: 'Keep your keys stylish or give your favorite handbag a whimsical touch with our hand-crocheted keychains. Lightweight, soft, and durable, these charms are fully customizable in colors, sizes, and design accents.',
+    shortDescription: 'Adorable handcrafted pipe cleaner flower keychains and handbag charms crafted with customizable designs and colors.',
+    description: 'Keep your keys stylish or give your favorite handbag a whimsical touch with our hand-crafted pipe cleaner keychains. Lightweight, soft, and durable, these charms are fully customizable in colors, sizes, and design accents.',
     features: [
       'Lightweight and soft — won\'t scratch key fobs or bags',
       'High-durability gold/silver key ring attachment',
       'Fully customizable sizes and colors (₹30, ₹50, ₹80)',
       'Hand-stitched detail for long-lasting charm'
     ],
-    material: 'Cotton Yarn, Metal Ring Key Hardware',
+    material: 'Plush Pipe Cleaner Stems, Metal Ring Hardware',
     careInstructions: 'Wipe clean or gentle hand wash.',
     dimensions: 'Varies by size tier (~2 in to ~4 in)',
     colorTheme: 'Pastel & Bright Floral Shades',
@@ -422,7 +422,7 @@ export const products = [
       { name: 'Standard Nameplate & Charm Tier', price: 50 },
       { name: 'Premium Personalized Multi-Charm', price: 80 },
     ],
-    shortDescription: 'Bespoke hand-knitted personalized nameplate keychains tailored with your choice of initial, color, and design.',
+    shortDescription: 'Bespoke handcrafted personalized nameplate keychains tailored with your choice of initial, color, and design.',
     description: 'Express your individuality with our signature personalized keychains! This showcase sample highlights our ability to craft custom letterings, names, initials, and charm combinations according to your personal preference. Contact us on WhatsApp to order your customized piece.',
     features: [
       'Custom initials, names, and charm combinations',
@@ -430,7 +430,7 @@ export const products = [
       'Tiered pricing based on customization complexity (₹30, ₹50, ₹80)',
       'Ideal personalized keepsake for loved ones'
     ],
-    material: 'Premium Yarn & Custom Hardware Accessories',
+    material: 'Plush Pipe Cleaners & Custom Hardware Accessories',
     careInstructions: 'Spot clean with mild soapy water.',
     dimensions: 'Custom made to customer specifications',
     colorTheme: 'Customizable to any preferred color palette',
@@ -443,7 +443,7 @@ export const products = [
   },
   {
     id: 'mini-flower-pot',
-    title: 'Everlasting Miniature Crochet Potted Desk Decor',
+    title: 'Everlasting Miniature Pipe Cleaner Potted Desk Decor',
     category: 'home-decor',
     categoryName: 'Home Decor & Accents',
     price: 299,
@@ -451,7 +451,7 @@ export const products = [
     variants: [
       { name: 'Single Potted Flower Desk Ornament', price: 299 },
     ],
-    shortDescription: 'Charming everlasting crochet potted plant desk decor that requires zero watering and brings endless cheer.',
+    shortDescription: 'Charming everlasting pipe cleaner potted plant desk decor that requires zero watering and brings endless cheer.',
     description: 'Bring green warmth and cheery blooms to your work desk, bookshelf, or window sill with this adorable handmade mini potted plant. Crafted with love, this zero-maintenance plant never needs watering or sunlight, staying forever in full bloom to brighten your workspace.',
     features: [
       'Zero maintenance everlasting bloom',
@@ -459,7 +459,7 @@ export const products = [
       'Compact size perfect for office desks & study tables',
       'Thoughtful aesthetic gift for plant lovers'
     ],
-    material: 'Milk Cotton Thread & Terracotta / Soft Pot Base',
+    material: 'Plush Pipe Cleaner Stems & Terracotta / Soft Pot Base',
     careInstructions: 'Dust off periodically with a soft brush.',
     dimensions: 'Approx 4.5 inches height x 2.5 inches width',
     colorTheme: 'Earthy Terracotta Pot & Soft Pastel Flower',
@@ -488,7 +488,7 @@ export const products = [
       'Perfect for school celebrations, cultural events & parades',
       'Soft fabric construction gentle on clothes and hair'
     ],
-    material: 'Vibrant Cotton Thread & Brooch Pin Hardware',
+    material: 'Plush Pipe Cleaner Stems & Brooch Pin Hardware',
     careInstructions: 'Store in dry container after celebration.',
     dimensions: 'Brooch size ~2.5 inches, Clip ~2 inches',
     colorTheme: 'Saffron (Kesar), Pure White, India Green & Navy Blue',

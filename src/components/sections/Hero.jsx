@@ -102,7 +102,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-brand-muted text-sm sm:text-base md:text-lg lg:text-xl font-normal leading-relaxed max-w-2xl mx-auto lg:mx-0"
             >
-              Exquisite crochet deity garlands, sacred mandir asaans, boho curtain tiebacks, and personalized gifts. Hand-knitted with warmth, devotion, and lasting perfection.
+              Exquisite pipe cleaner deity garlands, sacred mandir asaans, boho curtain tiebacks, and personalized gifts. Handcrafted with warmth, devotion, and lasting perfection.
             </motion.p>
 
             {/* CTAs: Full width on mobile, auto width on desktop */}

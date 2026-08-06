@@ -15,8 +15,8 @@ export default function Testimonials() {
     {
       name: 'Ananya S.',
       location: 'Pune',
-      product: 'Crochet Asaan & Sonchafa Garland',
-      text: 'Ordered the divine crochet asaan for Bappa along with the Sonchafa garland. The quality of yarn is so soft and premium. It feels so sacred and dignified on our puja altar.',
+      product: 'Pipe Cleaner Asaan & Sonchafa Garland',
+      text: 'Ordered the divine pipe cleaner asaan for Bappa along with the Sonchafa garland. The quality of the pipe cleaner material is so soft and premium. It feels so sacred and dignified on our puja altar.',
       rating: 5
     },
     {
