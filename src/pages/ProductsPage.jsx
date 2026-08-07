@@ -79,11 +79,10 @@ export default function ProductsPage() {
       <main className="min-h-screen bg-brand-bg py-12 md:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
-          {/* Header */}
           <SectionTitle
             subtitle="Artisanal Catalog"
             title="Explore Our Handcrafted Collection"
-            description="Every piece is individually hand-knitted with premium cotton yarn, devotion, and warm aesthetic perfection."
+            description="Every piece is individually handcrafted with premium plush materials, devotion, and warm aesthetic perfection."
           />
 
           {/* Controls Bar: Search & Sort */}
