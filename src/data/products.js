@@ -62,7 +62,7 @@ export const products = [
       { name: 'Medium Bloom - Single Flower', price: 40 },
       { name: 'Medium Bloom - 5 Flowers Garland (1.0 ft)', price: 250 },
       { name: 'Medium Bloom - 7 Flowers Garland (1.5 ft)', price: 350 },
-      { name: 'Grand Royal Bloom - Single Flower', price: 50 },
+      { name: 'Grand Royal Bloom - Single Flower', price: 80 },
       { name: 'Grand Royal Bloom - 5 Flowers Garland (1.2 ft)', price: 300 },
       { name: 'Grand Royal Bloom - 7 Flowers Garland (1.8 ft)', price: 400 },
     ],
