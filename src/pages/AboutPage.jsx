@@ -44,14 +44,25 @@ export default function AboutPage() {
               </h3>
               
               <p className="text-brand-muted font-light leading-relaxed">
-                What began as a quiet household passion for shaping soft plush floral stems has blossomed into <strong>The Homely Studio</strong>—a boutique home brand dedicated to creating everlasting deity garlands (haar), sacred altar seating asaans, and cozy home accents.
+                What began as a quiet household passion by <strong>Kavita Lokhande</strong> for shaping soft plush floral stems has blossomed into <strong>The Homely Studio</strong>—a boutique home brand dedicated to creating everlasting deity garlands (haar), sacred altar seating asaans, and cozy home accents.
               </p>
 
               <p className="text-brand-muted font-light leading-relaxed">
-                Natural flowers, though sacred and breathtaking, wither away within hours. We wanted to offer devotees and home decor lovers an everlasting, respectful alternative crafted with high-density materials that retain their vivid colors and shape across generations of festivals.
+                Every single piece in our collection is personally designed, woven, and finished by <strong>Kavita Lokhande</strong> in Ravet, Pune. Natural flowers, though sacred and breathtaking, wither away within hours. Kavita created an everlasting, respectful alternative crafted with high-density materials that retain their vivid colors and shape across generations of festivals.
               </p>
 
-              <div className="pt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {/* Artisan Highlight Badge */}
+              <div className="p-4 bg-white rounded-2xl border border-brand-border/80 flex items-center gap-4 shadow-soft">
+                <div className="w-12 h-12 rounded-full bg-brand-primary text-white flex items-center justify-center font-serif text-lg font-bold shrink-0">
+                  KL
+                </div>
+                <div>
+                  <h4 className="font-serif font-semibold text-brand-primary text-base">Handcrafted by Kavita Lokhande</h4>
+                  <p className="text-xs text-brand-muted font-light">Lead Artisan & Founder crafting every piece with love in Ravet, Pune</p>
+                </div>
+              </div>
+
+              <div className="pt-2 grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="p-4 bg-brand-secondary/50 rounded-2xl border border-brand-border/60">
                   <h4 className="font-serif font-semibold text-brand-primary text-base mb-1">Our Mission</h4>
                   <p className="text-xs text-brand-muted font-light">

@@ -126,7 +126,7 @@ export default function Footer() {
           <p className="flex flex-wrap items-center justify-center md:justify-start gap-1">
             <span>© {new Date().getFullYear()} {BRAND_INFO.name}. Handcrafted with</span>
             <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500 inline" />
-            <span>in Ravet, Pune.</span>
+            <span>by Kavita Lokhande in Ravet, Pune.</span>
           </p>
 
           <p className="text-center md:text-right text-[11px] text-brand-muted/80">
