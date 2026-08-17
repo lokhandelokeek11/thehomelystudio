@@ -14,6 +14,8 @@ import miniFlowerPotImg from '../assets/images/mini_flower_pot.jpeg';
 import sampleKeychainImg from '../assets/images/sample_keychain.jpeg';
 import smallHibiscusHaarImg from '../assets/images/small_hibicus_haar.jpeg';
 import sonchafaHaarImg from '../assets/images/sonchafa_haar.jpeg';
+import lotus6Img from '../assets/images/6_lotus_flowers_latkan.jpeg';
+import lotus3Img from '../assets/images/3_lotus_flowers_latkan.jpeg';
 
 export const products = [
   {
@@ -442,6 +444,68 @@ export const products = [
     giftOccasions: 'School Event Favors, Patriotic Gift Set',
     images: [independenceDayImg],
     featured: false,
+    bestSeller: false,
+    newArrival: true,
+  },
+  {
+    id: '6-lotus-flowers-latkan',
+    title: '6 Lotus Flowers Latkan',
+    category: 'deity-decor',
+    categoryName: 'Festive & Deity Garlands',
+    price: 249,
+    priceDisplay: 'Starting from ₹249',
+    variants: [
+      { name: 'Single Latkan (1 Piece)', price: 249 },
+      { name: 'Pair of Latkans (Set of 2)', price: 399 },
+    ],
+    shortDescription: 'Exquisite handcrafted 6 lotus flowers hanging latkan for festive mandir, door, and wall embellishment.',
+    description: 'Enhance your festive home decor with this beautiful handcrafted 6 Lotus Flowers Latkan. Meticulously crafted with soft plush lotus blossoms, delicate pearls, and elegant tassels, this sacred hanging decoration brings grace, auspiciousness, and vibrant charm to doors, mandir backdrops, and festive corners.',
+    features: [
+      '6 Handcrafted lotus blossoms per hanging string',
+      'Available options: Single Piece (₹249) or Pair Set of 2 (₹399)',
+      'High-quality durable plush floral craftsmanship',
+      'Perfect for festive wall, door, and mandir decorations',
+      'Reusable year after year'
+    ],
+    material: 'Premium Soft Plush Craft, Pearls & Decorative Tassels',
+    careInstructions: 'Dust lightly with a soft brush or dry cloth.',
+    dimensions: 'Approx. 6 Lotus Flowers vertical hanging string',
+    colorTheme: 'Sacred Lotus Pink, Gold & Leaf Green Accents',
+    suitableFor: 'Doorway Hanging, Mandir Backdrop, Festive Wall Decor, Pooja Room',
+    giftOccasions: 'Housewarming, Diwali, Festival Gifting, Religious Ceremonies',
+    images: [lotus6Img],
+    featured: true,
+    bestSeller: true,
+    newArrival: true,
+  },
+  {
+    id: '3-lotus-flowers-latkan',
+    title: '3 Lotus Flowers Latkan',
+    category: 'deity-decor',
+    categoryName: 'Festive & Deity Garlands',
+    price: 149,
+    priceDisplay: 'Starting from ₹149',
+    variants: [
+      { name: 'Single Latkan (1 Piece)', price: 149 },
+      { name: 'Pair of Latkans (Set of 2)', price: 349 },
+    ],
+    shortDescription: 'Charming handcrafted 3 lotus flowers hanging latkan, ideal for compact altars, doors, and festive accents.',
+    description: 'Add a sacred touch of elegance to your home with our Handcrafted 3 Lotus Flowers Latkan. Featuring 3 beautifully shaped lotus blossoms with decorative pearls and tassels, this versatile hanging charm is ideal for small mandir altars, door sides, car dashboards, or festive wall highlights.',
+    features: [
+      '3 Handcrafted lotus blossoms per hanging string',
+      'Available options: Single Piece (₹149) or Pair Set of 2 (₹349)',
+      'Compact & lightweight festive hanging decor',
+      'Soft plush texture with vibrant non-fading colors',
+      'Handmade with love and devotion'
+    ],
+    material: 'Premium Soft Plush Craft, Pearls & Decorative Tassels',
+    careInstructions: 'Dust lightly with a soft brush or dry cloth.',
+    dimensions: 'Approx. 3 Lotus Flowers vertical hanging string',
+    colorTheme: 'Sacred Lotus Pink, Gold & Leaf Green Accents',
+    suitableFor: 'Mandir Altar Sides, Door Accents, Festive Decor, Car Dashboard',
+    giftOccasions: 'Return Gifts, Festive Gifting, Housewarming Tokens',
+    images: [lotus6Img],
+    featured: true,
     bestSeller: false,
     newArrival: true,
   },

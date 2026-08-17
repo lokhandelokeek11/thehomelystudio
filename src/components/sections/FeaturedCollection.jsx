@@ -6,7 +6,7 @@ import ProductGrid from '../common/ProductGrid';
 import { products } from '../../data/products';
 
 export default function FeaturedCollection() {
-  const featuredProducts = products.filter(p => p.featured).slice(0, 8);
+  const featuredProducts = products.filter(p => p.featured).slice(0, 12);
 
   return (
     <section className="py-16 md:py-24 bg-brand-bg">
@@ -25,7 +25,7 @@ export default function FeaturedCollection() {
             to="/products"
             className="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-secondary hover:bg-brand-secondary-dark text-brand-primary font-medium text-sm rounded-full transition-all duration-300 border border-brand-border group shadow-sm hover:shadow"
           >
-            <span>Explore All 16 Handcrafted Products</span>
+            <span>Explore All {products.length} Handcrafted Products</span>
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>
