@@ -16,6 +16,8 @@ import smallHibiscusHaarImg from '../assets/images/small_hibicus_haar.jpeg';
 import sonchafaHaarImg from '../assets/images/sonchafa_haar.jpeg';
 import lotus6Img from '../assets/images/6_lotus_flowers_latkan.jpeg';
 import lotus3Img from '../assets/images/3_lotus_flowers_latkan.jpeg';
+import evilEyeImg from '../assets/images/evil-eye.png';
+import shubhLabhImg from '../assets/images/shubhlabh.png';
 
 export const products = [
   {
@@ -504,9 +506,68 @@ export const products = [
     colorTheme: 'Sacred Lotus Pink, Gold & Leaf Green Accents',
     suitableFor: 'Mandir Altar Sides, Door Accents, Festive Decor, Car Dashboard',
     giftOccasions: 'Return Gifts, Festive Gifting, Housewarming Tokens',
-    images: [lotus6Img],
+    images: [lotus3Img],
     featured: true,
     bestSeller: false,
+    newArrival: true,
+  },
+  {
+    id: 'evil-eye-wall-hanging-set',
+    title: 'Evil eye Wall Hanging+Keychain+Rakhi',
+    category: 'home-decor',
+    categoryName: 'Home Decor & Accents',
+    price: 299,
+    priceDisplay: '₹299',
+    variants: [
+      { name: 'Evil Eye Wall Hanging + Keychain + Rakhi Set', price: 299 },
+    ],
+    shortDescription: 'Auspicious handcrafted 3-in-1 Evil Eye combo set featuring a protective wall hanging, matching keychain, and sacred Rakhi.',
+    description: 'Bring positive energy and stylish protection to your space with our Handcrafted Evil Eye Combo Set. This versatile 3-in-1 set includes an ornate Evil Eye wall hanging ornament, a matching charm keychain, and an elegant handcrafted Rakhi. Meticulously crafted with durable plush floral artistry and vibrant colors.',
+    features: [
+      '3-in-1 Handmade Set: Wall Hanging + Keychain + Rakhi',
+      'Protective Evil Eye design with intricate handcrafted details',
+      'High-quality plush craftsmanship with vibrant non-fading colors',
+      'Perfect for home entrance decor, key organization, and Raksha Bandhan gifting'
+    ],
+    material: 'Premium Soft Plush Craft, Beads & Metallic Accent Ring',
+    careInstructions: 'Dust off periodically with a soft brush or dry cloth.',
+    dimensions: 'Wall Hanging (~6 inches), Keychain (~3.5 inches), Rakhi (~12 inches)',
+    colorTheme: 'Royal Blue, Pure White, Black & Gold Accents',
+    suitableFor: 'Home Entrance, Car Rearview Mirror, Keys, Raksha Bandhan Gifting',
+    giftOccasions: 'Raksha Bandhan, Housewarming, Festival Gifting, Protection Charm',
+    images: [evilEyeImg],
+    featured: true,
+    bestSeller: true,
+    newArrival: true,
+  },
+  {
+    id: 'shubh-labh-wall-hanging',
+    title: 'Shubh-Labh Wall Hanging',
+    category: 'deity-decor',
+    categoryName: 'Festive & Deity Garlands',
+    price: 349,
+    priceDisplay: '₹349',
+    variants: [
+      { name: 'Shubh-Labh Wall Hanging (Pair Set)', price: 349 },
+    ],
+    shortDescription: 'Sacred handcrafted Shubh-Labh wall hanging set for mandir backdrop, entrance doorway, and festive embellishment.',
+    description: 'Welcome prosperity, harmony, and divine blessings into your home with our Handcrafted Shubh-Labh Wall Hanging Set. Featuring auspicious "Shubh" (Good Fortune) and "Labh" (Prosperity) motifs accented with delicate pearls, plush floral work, and elegant hanging tassels. Ideal for home entrances, mandir backdrops, and festive occasions.',
+    features: [
+      'Handcrafted Shubh & Labh hanging pair',
+      'Adorned with delicate pearl strings and decorative tassels',
+      'Auspicious red, yellow, and gold festive color scheme',
+      'Perfect for main entrance doorway and mandir altar decoration',
+      'Reusable year after year with non-fading colors'
+    ],
+    material: 'Premium Soft Plush Craft, Decorative Pearls & Tassels',
+    careInstructions: 'Dust lightly with a soft brush or dry cloth.',
+    dimensions: 'Approx. 8-10 inches vertical hanging length per piece',
+    colorTheme: 'Auspicious Red, Festive Yellow & Sacred Gold Accents',
+    suitableFor: 'Main Entrance Door, Mandir Backdrop, Pooja Room, Festive Wall Decor',
+    giftOccasions: 'Diwali, Housewarming, Festive Gifting, Puja Ceremonies',
+    images: [shubhLabhImg],
+    featured: true,
+    bestSeller: true,
     newArrival: true,
   },
 ];
